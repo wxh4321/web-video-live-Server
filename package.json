@@ -1,0 +1,16 @@
+{
+  "name": "web-video-live-server",
+  "version": "1.0.0",
+  "description": "webLiveServer",
+  "main": "wss.js",
+  "dependencies": {
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node wss.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wxh",
+  "license": "ISC"
+}
